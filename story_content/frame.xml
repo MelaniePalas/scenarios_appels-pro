@@ -1461,6 +1461,7 @@
       <string id="close">Fermer</string>
       <string id="closed_captions">Sous-titres</string>
       <string id="closedcaptions_shortcut">Activer / Désactiver les sous-titres</string>
+      <string id="comma_key">Virgule</string>
       <string id="continueresponsive">Continuer</string>
       <string id="ctrl_key">Ctrl</string>
       <string id="definition">Définition </string>
@@ -1488,6 +1489,8 @@
       <string id="next">SUIVANT</string>
       <string id="next_shortcut">Suivant</string>
       <string id="outline">Menu</string>
+      <string id="outline_container">Menu</string>
+      <string id="period_key">Point</string>
       <string id="playback_speed_normal">Normale</string>
       <string id="playback_speed_title">Vitesse du lecteur</string>
       <string id="playpause_shortcut">Lire / mettre en pause</string>
@@ -1500,6 +1503,7 @@
       <string id="progress_second">seconde</string>
       <string id="progress_seconds">secondes</string>
       <string id="question_list">Liste des questions</string>
+      <string id="question_mark_key">Point d'interrogation</string>
       <string id="replay_shortcut">Rejouer</string>
       <string id="resources">Ressources</string>
       <string id="restart">Redémarrer</string>
@@ -1563,10 +1567,6 @@
       <string id="video_transcript_select_track">Sélectionner une piste</string>
       <string id="video_transcript_title">Transcriptions</string>
       <string id="zoom_to_fit">Utiliser le zoom du navigateur</string>
-      <string id="comma_key">Virgule</string>
-      <string id="outline_container">Menu</string>
-      <string id="period_key">Point</string>
-      <string id="question_mark_key">Point d'interrogation</string>
       <string id="continue">Continuer</string>
       <string id="invalid_prompt_button">OK</string>
       <string id="invalid_prompt_message">Vous devez répondre à la question avant de valider.</string>
